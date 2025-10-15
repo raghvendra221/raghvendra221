@@ -15,7 +15,7 @@
        ">
   <h3>Hi, I'm Raghvendra</h3>
   <p>
-    I'm a 2nd-year Computer Science student passionate about <b>web development</b>.<br>
+    I'm a 3rd-year Computer Science student passionate about <b>web development</b>.<br>
     I enjoy exploring new technologies and building projects that combine creativity with programming.
   </p> 
 </div> -->
