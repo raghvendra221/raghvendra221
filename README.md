@@ -1,13 +1,35 @@
 
 <!----------------------------------- About Section ------------------------------------>
-<div>
-  <img align="right" width="150" alt="Coding" src="photo2.png">
+<!-- <div>
+    <img 
+       align="right" 
+       src="photo2.png" 
+       alt="Coding" 
+       width="150" 
+       height="150" 
+       style="
+         border-radius: 50%; 
+         border: 2px solid #ccc; 
+         box-shadow: 0 0 10px rgba(0,0,0,0.3); 
+         object-fit: cover;
+       ">
   <h3>Hi, I'm Raghvendra</h3>
   <p>
     I'm a 2nd-year Computer Science student passionate about <b>web development</b>.<br>
     I enjoy exploring new technologies and building projects that combine creativity with programming.
   </p> 
-</div>
+</div> -->
+
+<p align="center">
+  <img src="photo2.png" alt="Raghvendra" width="150" height="150" style="border-radius:50%; border:2px solid #ccc; box-shadow:0 0 10px rgba(0,0,0,0.3);">
+</p>
+
+# Hi, I'm Raghvendra
+
+I'm a 2nd-year Computer Science student passionate about **web development**.  
+I enjoy exploring new technologies and building projects that combine creativity with programming.
+
+
 
 
 
