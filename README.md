@@ -26,7 +26,7 @@
 
 # Hi, I'm Raghvendra
 
-I'm a 2nd-year Computer Science student passionate about **web development**.  
+I'm a 3rd-year Computer Science student passionate about **web development**.  
 I enjoy exploring new technologies and building projects that combine creativity with programming.
 
 
